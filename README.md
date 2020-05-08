@@ -1,0 +1,2 @@
+# mcMMOFishingFixer
+mcmmoの釣りスキルのバグや互換性を修正するPL
